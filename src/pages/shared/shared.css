@@ -1,0 +1,18 @@
+.shared {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.shared-func {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.shared-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
